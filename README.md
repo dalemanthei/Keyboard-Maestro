@@ -16,6 +16,10 @@ These being my first Keyboard Maestro effort, I'm sure there's a lot that could 
 
 I included the raw AppleScript used in parts of this because it solved a couple things for me that that might be interesting to others given the lack of AppleScript support provided by Path Finder.
 
+## OmniFocus Anywhere
+
+Simple macro to leverage OmniFocus 2's new Quick Open option.  Rather than writing a bunch of macros for perspectives in a palette or whatever, I bind this to my ⌘⌥^⇧O to launch the perspective, project or whatever with OmniFocus' awesome fuzzy search.
+
 ## Origami Palette
 
 I had to write this by hand but no complaints.  If/when RocketINK ups his version ([which is much prettier](http://rocketink.net/uploads/2013/08/2013-08-14-km-origami.png) than mine), I'll take this one down and link there.
